@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AutoSave - Tu Ahorro Inteligente</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <button id="themeToggle" class="theme-toggle" aria-label="Cambiar tema">
+      <span class="theme-icon">🌙</span>
+    </button>
+
+    <div class="card" id="businessCard">
+      <div class="card-header">
+        <div class="avatar">
+          <img src="https://img.freepik.com/vector-premium/logotipo-billetera-digital-o-aplicacion-pago-movil_526569-145.jpg" alt="AutoSave Logo" id="avatarImg">
+        </div>
+        <div class="header-info">
+          <h1 id="userName">AutoSave Fintech</h1>
+          <p class="title" id="userTitle">Gestión Financiera Automatizada</p>
+          <p class="location" id="userLocation"> Hub de Innovación, 2026</p>
+        </div>
+      </div>
+
+      <div class="card-section">
+        <h2>Sobre nuestra Tecnología</h2>
+        <p id="userBio" class="bio">Cargando descripción de servicios financieros...</p>
+      </div>
+
+      <div class="card-section">
+        <h2>Soporte y Contacto</h2>
+        <div class="contact-info">
+          <div class="contact-item">
+            <span class="icon"></span>
+            <span id="userEmail">cargando...</span>
+            <button id="copyEmailBtn" class="btn btn-small">Copiar</button>
+          </div>
+          <div class="contact-item">
+            <span class="icon"></span>
+            <span id="userPhone">cargando...</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="card-section">
+        <h2>Funciones de Ahorro</h2>
+        <div id="skillsList" class="skills-list">
+          Cargando módulos...
+        </div>
+        <button id="toggleSkills" class="btn btn-secondary">Mostrar más funciones</button>
+      </div>
+
+      <div class="card-section">
+        <h2>Nuestras Plataformas</h2>
+        <div id="socialLinks" class="social-links">
+          Cargando enlaces...
+        </div>
+      </div>
+
+      <div class="card-section">
+        <h2>Impacto Financiero</h2>
+        <div id="stats" class="stats-grid">
+          Cargando métricas...
+        </div>
+      </div>
+    </div>
+
+    <footer class="footer">
+      <p>Construido con usando JavaScript ES2023</p>
+      <p class="small">Proyecto Fintech - Bootcamp de Programación Moderna</p>
+    </footer>
+  </div>
+
+  <div id="toast" class="toast">
+    <span id="toastMessage"></span>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
