@@ -50,7 +50,17 @@ Botón "Show More / Show Less" en funciones
 No requiere servidor ni instalación adicional.
 
 📸 Screenshots
-[Agregar capturas de pantalla]
+[<img width="1878" height="905" alt="Captura de pantalla 2026-02-12 202303" src="https://github.com/user-attachments/assets/a3b63890-4ff3-4f3c-ac9a-1e71a3576f96" />]
+[<img width="1872" height="909" alt="Captura de pantalla 2026-02-12 202325" src="https://github.com/user-attachments/assets/8b3c111d-9af8-436c-baca-dc5a2f593e09" />]
+[<img width="1841" height="789" alt="Captura de pantalla 2026-02-12 202337" src="https://github.com/user-attachments/assets/6ead8fd3-b9b1-464a-906b-10412d1d79f2" />]
+[<img width="1604" height="763" alt="Captura de pantalla 2026-02-12 202352" src="https://github.com/user-attachments/assets/8fe23861-38c0-4ed2-a44f-3100f7f28708" />]
+[<img width="136" height="63" alt="Captura de pantalla 2026-02-12 202402" src="https://github.com/user-attachments/assets/3699739b-2341-4f55-a7c5-fb1fad0d6d33" />]
+[<img width="1860" height="870" alt="Captura de pantalla 2026-02-12 202411" src="https://github.com/user-attachments/assets/922116c2-1543-4774-a33a-43cb07c1511f" />]
+[<img width="138" height="42" alt="Captura de pantalla 2026-02-12 202430" src="https://github.com/user-attachments/assets/9a9786d9-4120-4181-b5f0-6ab3269c34d5" />]
+[<img width="1873" height="900" alt="Captura de pantalla 2026-02-12 202454" src="https://github.com/user-attachments/assets/1b8b148e-7db2-48b1-b1d0-304308a18a3a" />]
+[<img width="98" height="55" alt="Captura de pantalla 2026-02-12 202508" src="https://github.com/user-attachments/assets/3eee5373-ebdd-4ba0-af9e-ac6ab724e749" />]
+[<img width="1889" height="888" alt="Captura de pantalla 2026-02-12 202531" src="https://github.com/user-attachments/assets/1cd79caa-7113-48bb-815a-d75c4de71bb3" />]
+
 
 
 🧾 Autoevaluación
