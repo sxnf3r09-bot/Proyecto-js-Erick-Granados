@@ -51,6 +51,8 @@ No requiere servidor ni instalación adicional.
 
 📸 Screenshots
 [Agregar capturas de pantalla]
+
+
 🧾 Autoevaluación
 
 Funcionalidad: [95] %
