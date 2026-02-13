@@ -53,11 +53,14 @@ No requiere servidor ni instalación adicional.
 [Agregar capturas de pantalla]
 🧾 Autoevaluación
 
-Criterio,Puntaje
-Funcionalidad,95%
-Código ES2023,100%
-Código Limpio,95%
-Adaptación al Dominio,100%
-Total Estimado,98%
+Funcionalidad: [95] %
+
+Código ES2023: [100] %
+
+Código Limpio: [95]%
+
+Adaptación al Dominio: [100] %
+
+Total Estimado: [98] %
 
 
